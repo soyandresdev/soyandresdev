@@ -1,5 +1,5 @@
 <a href="https://soyandres.dev">
-  <img src="./assets/banner.jpg" alt="SoyAndres.dev — Andres Hernandez Lozano, Fullstack Developer" width="100%">
+  <img src="./assets/banner-v2.jpg" alt="SoyAndres.dev — Andres Hernandez Lozano, Fullstack Developer" width="100%">
 </a>
 
 <p align="center">
@@ -51,7 +51,7 @@ const andres = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/soyandresdev/seo-rank-tracker">SEO Rank Tracker</a></h3>
+      <h3><a href="https://github.com/soyandresdev/posiq-seo-tracker">Posiq — AI SEO Audits &amp; Rank Tracking</a></h3>
       <p>A tool to check the SEO of a website with AI. It opens the page in a real browser, runs 20 checks and uses Gemini to give it a score. An assistant explains what to fix. Every morning it also checks your Google position for each keyword and country, and it sends you an email if something changes.</p>
       <p>
         <img src="https://img.shields.io/badge/React-0b0d10?logo=react&logoColor=00F3FF" alt="React">
@@ -61,7 +61,7 @@ const andres = {
         <img src="https://img.shields.io/badge/Gemini-0b0d10?logo=googlegemini&logoColor=00F3FF" alt="Gemini">
         <img src="https://img.shields.io/badge/Docker-0b0d10?logo=docker&logoColor=00F3FF" alt="Docker">
       </p>
-      <a href="https://soyandres.dev/projects/seo-rank-tracker">Case study →</a>
+      <a href="https://soyandres.dev/projects/posiq-seo-tracker">Case study →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyandresdev/the-frontend-projects">The Frontend Projects</a></h3>
