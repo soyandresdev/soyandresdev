@@ -92,8 +92,8 @@ See my full experience and certifications at [soyandres.dev/experience](https://
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soyandresdev&show_icons=true&hide_border=true&bg_color=0b0d10&title_color=00F3FF&icon_color=7ED321&text_color=c9ccd1" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyandresdev&layout=compact&hide_border=true&bg_color=0b0d10&title_color=00F3FF&text_color=c9ccd1" alt="Top languages">
+  <img height="165" src="https://streak-stats.demolab.com?user=soyandresdev&hide_border=true&background=0b0d10&ring=00F3FF&fire=7ED321&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F3FF&sideLabels=c9ccd1&dates=8b9097&stroke=2a2e35" alt="GitHub streak">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soyandresdev&theme=github_dark" alt="Top languages">
 </p>
 
 ---
