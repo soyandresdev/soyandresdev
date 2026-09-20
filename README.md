@@ -1,13 +1,13 @@
 <a href="https://soyandres.dev">
-  <img src="./assets/banner-v2.jpg" alt="SoyAndres.dev — Andres Hernandez Lozano, Fullstack Developer" width="100%">
+  <img src="./assets/banner.jpg" alt="SoyAndres.dev — Andres Hernandez Lozano, Fullstack Developer" width="100%">
 </a>
 
 <p align="center">
   <a href="https://soyandres.dev"><img src="https://img.shields.io/badge/soyandres.dev-0b0d10?style=for-the-badge&logo=astro&logoColor=00F3FF" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/soyandreshernandez/"><img src="https://img.shields.io/badge/LinkedIn-0b0d10?style=for-the-badge&logo=linkedin&logoColor=00F3FF" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/soyandresdev/"><img src="https://img.shields.io/badge/LinkedIn-0b0d10?style=for-the-badge&logo=linkedin&logoColor=00F3FF" alt="LinkedIn"></a>
   <a href="mailto:info@soyandres.dev"><img src="https://img.shields.io/badge/info@soyandres.dev-0b0d10?style=for-the-badge&logo=gmail&logoColor=7ED321" alt="Email"></a>
   <a href="https://www.youtube.com/channel/UC1UzYcxIbBgUbiWAKy9rjKg"><img src="https://img.shields.io/badge/YouTube-0b0d10?style=for-the-badge&logo=youtube&logoColor=00F3FF" alt="YouTube"></a>
-  <a href="https://www.instagram.com/soyandydev/"><img src="https://img.shields.io/badge/Instagram-0b0d10?style=for-the-badge&logo=instagram&logoColor=7ED321" alt="Instagram"></a>
+  <a href="https://www.instagram.com/soyandres.dev/"><img src="https://img.shields.io/badge/Instagram-0b0d10?style=for-the-badge&logo=instagram&logoColor=7ED321" alt="Instagram"></a>
 </p>
 
 ## Hi, I'm Andres 👋
